@@ -1,4 +1,4 @@
-# Collection of Raw ADC Data from AWR6843 / AWR1843 Radar Kit
+# TI AWR6843/AWR1843 Radar Kit Raw ADC Data Collection
 
   - Using serial port to send cfg parameters to AWR6843(not fully tested) / AWR1843(well tested).
   - Supporting using both DCA1000EVM_CLI_Control executable file and UDP packets through the Ethernet connection to send commands and collect data.
